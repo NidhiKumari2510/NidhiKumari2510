@@ -75,9 +75,8 @@
 ### 📁 Featured Projects
 - 🎯 [**story-craft**](https://story-craft-seven.vercel.app/) : 
   *An AI-powered story generator that creates fun, imaginative tales for children.*
-- 🎯 [**opportunity-hub**](https://opportunity-hub-rouge.vercel.app/) :
-  *A centralized platform helping students discover scholarship, hackathons, and learning opportunities.*
-
+- 🎯 [**FunZone**](https://mini-games-bice.vercel.app/) :
+  *A fun and interactive web app that brings together multiple mini-games like Tic Tac Toe, Snake & Ladder, Rock Paper Scissors, Sudoku, Memory Match, and more.*
 - 🎯 [**turn-mode**](https://turn-mode-alpha.vercel.app/) :
   *A dynamic web app that changes from a timer to a stopwatch to a weather app with phone orientation.*
 
