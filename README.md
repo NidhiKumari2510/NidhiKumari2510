@@ -72,16 +72,6 @@
 
 ---
 
-### 📁 Featured Projects
-- 🎯 [**story-craft**](https://story-craft-seven.vercel.app/) : 
-  *An AI-powered story generator that creates fun, imaginative tales for children.*
-- 🎯 [**FunZone**](https://mini-games-bice.vercel.app/) :
-  *A fun and interactive web app that brings together multiple mini-games like Tic Tac Toe, Snake & Ladder, Rock Paper Scissors, Sudoku, Memory Match, and more.*
-- 🎯 [**turn-mode**](https://turn-mode-alpha.vercel.app/) :
-  *A dynamic web app that changes from a timer to a stopwatch to a weather app with phone orientation.*
-
----
-
 ### 🌐 Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/nidhi-kumari-ab2870336/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
