@@ -4,10 +4,17 @@
 
 
 # 💫 About Me   
-🎓 B.Tech 2rd Year Student in Computer Science and Engineering - Artificial Intelligence at IGDTUW.  
-💻 Passionate about **Artificial Intelligence, Full-Stack Development, Machine Learning, and DSA**.  
-🚀 Exploring **open-source contributions** and preparing for top-tech internships.  
-📚 Always learning & building — from **DSA challenges** to **real-world applications**.  
+
+🎓 Third-year B.Tech CSE (AI) student at IGDTUW.
+
+💻 I enjoy building software that combines problem-solving with real-world impact, whether that's AI-powered applications, full-stack web platforms, or machine learning projects.
+
+🚀 Currently focused on Data Structures & Algorithms, backend development, and AI-driven products while preparing for software engineering internships.
+
+📚 I love learning by building, exploring new technologies, contributing to projects, and turning ideas into working applications.
+
+🌱 Always looking for opportunities to grow as an engineer and collaborate on meaningful projects.
+  
 
 
 ---
